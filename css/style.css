@@ -1,0 +1,53 @@
+.navbar-light .navbar-nav .nav-link {
+    padding: 0 25px !important;
+
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    border: 1px solid #ffc107 !important;
+}
+
+
+body{
+    background-color: #363636 !important;
+}
+
+.row form input{
+    width: 300px !important;
+}
+
+
+.card{
+    margin-left: 30px !important;
+}
+
+.card, .card2{
+    margin-left: auto !important;
+}
+
+
+.text-light h3{
+    color: #ffc107 !important;
+}
+
+.slider {
+    padding: 0 0 65px 0 !important;
+    width: 85% !important;
+}
+
+.slider img{
+    height: 400px;
+}
+
+
+.card-lg-4.mb-4.bg-light:hover .card-body.text-light.bg-dark{
+    background: black !important;
+    color: #ffc107 !important;
+
+}
+
+
+.card-lg-4 ,.mb-4 ,.bg-light:hover img{
+    border-radius: 50% 50% 0 0!important;
+
+}
